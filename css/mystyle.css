@@ -75,17 +75,18 @@ html {
 .menu ul li{
     display: inline;
     margin-right: 10px;
+    background-color: orange;
+    padding: 10px;
    
     
 }
-.menu ul li :hover{
+.menu ul li:hover{
     background-color: gray;
 }
 
 .menu ul li a {
     text-decoration: none;
     color: white;
-    background-color: orange;
-    padding: 10px;
+    
 }
 
